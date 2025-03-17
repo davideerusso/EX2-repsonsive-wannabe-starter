@@ -140,4 +140,32 @@ img {
     flex-direction: column;
     align-items: center;
   }
+  .lessons .col {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .col {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 60px;
+  }
+  .steps {
+    margin: 0;
+    padding-bottom: 0;
+  }
+  .steps .col {
+    width: 100%;
+  }
+  .why-us .col-left {
+    width: 100%;
+  }
+  .why-us .col-right {
+    width: 90%;
+  }
+  .why-us {
+    background-color: rgb(28, 28, 28);
+    margin-bottom: 0rem;
+    padding-top: 3rem;
+  }
 }
